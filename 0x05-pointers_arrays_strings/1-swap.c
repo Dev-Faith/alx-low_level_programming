@@ -12,6 +12,6 @@ int *n;
 
 p = a;
 n = b;
-*a = n;
-*b = p;
+a = n;
+b = p;
 }
