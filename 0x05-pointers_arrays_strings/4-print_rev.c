@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-#include <String.h>
+#include <string.h>
 /**
  * print_rev - prints rev
  * @s: param
