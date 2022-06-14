@@ -4,7 +4,7 @@
 /**
  * _strlen - swaps values of two integers
  * @s: param
- * return: int
+ * Return: int
  */
 int _strlen(char *s)
 {
