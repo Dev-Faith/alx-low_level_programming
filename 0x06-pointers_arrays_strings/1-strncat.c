@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 #include <string.h>
 /**
 * _strncat - concatenates string values
@@ -17,5 +16,7 @@ char *_strncat(char *dest, char *src, int n)
    {
        dest[len1+i]=src[i];
        printf("Your name: %s\n", dest);
+
+       return dest;
    }
 }
